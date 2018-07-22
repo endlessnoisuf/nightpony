@@ -1,5 +1,7 @@
 //META{"name":"NightPony","description":"Beautiful Discord Background with Pony OC (Double Star, artist: Ramiras) by Eternal","author":"endlessnoisuf#2300","version":"1"}*//
 
+@import url(https://cdn.rawgit.com/endlessnoisuf/nightpony/e595154e/Resource.css);
+
 :root {
 	--transparencycolor: 0,0,0;		/* default: 0,0,0 */
 	--transparencyalpha: 0.15;		/* default: 0.15 */
@@ -9,10 +11,3 @@
 	--background: url(https://i.imgur.com/hPMNNuW.jpg); /* replace the link in url() with your own direct image link to change the background */
 	--backdrop: rgba(0,0,0,0.4);	/* default: rgba(0,0,0,0.4) can also be changed to an image like --background */
 }
-
-
-
-
-
-
-@import url(https://cdn.rawgit.com/endlessnoisuf/nightpony/e595154e/Resource.css);
