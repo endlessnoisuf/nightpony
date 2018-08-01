@@ -1090,6 +1090,10 @@ input:disabled {
 	background: rgba(var(--transparencycolor),calc(var(--transparencyalpha) * 3)) !important;
 }
 
+.theme-dark .guildsWrapper-5TJh6A {
+	background: rgba(0,0,0,.2);
+}
+
 .message-group {
 	padding: 12px 0 10px 0 !important;
 	border-radius: 5px !important;
