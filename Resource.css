@@ -1091,14 +1091,18 @@ input:disabled {
 }
 
 .theme-dark .guildsWrapper-5TJh6A {
-	background: rgba(0,0,0,.2) !important;
+  background: rgba(0,0,0,.2) !important;
 }
 .theme-dark {
-	background: rgba(0,0,0,.2) !important;
+  background: rgba(0,0,0,.2) !important;
+}
+
+.theme-dark .messagesWrapper-3lZDfY {
+    background-color: transparent !important;
 }
 
 .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
-  background-color: transparent !important;
+    background-color: transparent !important;
 }
 
 .message-group {
